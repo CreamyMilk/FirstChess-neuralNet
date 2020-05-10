@@ -1,6 +1,6 @@
 #Just chess ai but in python
 Open for any more push requests
-A toy implementation of ~~neural network~~ normal chess written while livestreaming.
+A toy implementation of ~~neural network~~ normal chess written while learning about minimax.
 
 <img width=600px src="https://raw.githubusercontent.com/geohot/twitchchess/master/screenshot.png" />
 
