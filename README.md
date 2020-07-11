@@ -1,4 +1,4 @@
-#Just chess ai but in python
+#Just a chess AI but in python
 Open for any more push requests
 A toy implementation of ~~neural network~~ normal chess written while learning about minimax.
 
