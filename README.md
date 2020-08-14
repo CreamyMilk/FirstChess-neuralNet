@@ -32,7 +32,7 @@ Or with pypy (for max speed)
 TODOs
 -----
 
-* Roll out search beyond 1-ply
+* Roll out search beyond 1-player Support
 * Make trainer multi GPU
 * Train on more data
 * Add RL self play learning support
