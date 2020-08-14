@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-import os
+#os -read files numpy-VectorMath 
+import os 
 import chess.pgn
 import numpy as np
 from state import State
